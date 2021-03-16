@@ -7,7 +7,8 @@ changes being done in the backend model. This happens without manually
 registering listeners, and the reactive framework keeping track of what parts
 of the model affect what parts of the application..
 
-反应式UI的概念是后端模型变化的反应让UI自动更新,不需要手动注册监听器，也不需要反应式框架跟踪模型的哪部分会影响应用的哪部分。
+反应式UI的概念是后端模型变化的反应让UI自动更新,不需要手动注册监听器，也不需要反应式框架跟踪模型会影响应用的部分。
+
 == Demo
 
 link:https://raw.githubusercontent.com/germaniumhq/mopyx-sample/master/demo.gif[PiSide2
